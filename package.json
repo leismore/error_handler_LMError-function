@@ -1,6 +1,6 @@
 {
   "name": "@leismore/error_handler_lmerror",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A error handler function for LMError (https://github.com/leismore/LMError) NodeJS.",
   "main": "index.js",
   "dependencies": {
